@@ -27,6 +27,10 @@ organizations:
   - name: 자유개혁교회
     url: https://www.example.com/
 
+교회 소개: 
+동가재미 1길 6-4.
+인후초등학교 후문.
+
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 
