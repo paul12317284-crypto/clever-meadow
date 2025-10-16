@@ -24,7 +24,7 @@ role: Director of Cloud Infrastructure
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: 박건우
     url: https://www.example.com/
 
 # Social network links
