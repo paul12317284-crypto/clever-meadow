@@ -35,7 +35,7 @@ education:
   - area: 자유개혁교회
     institution: 교회
     date_start: 1996-1-1
-    date_end: ~~~~
+    date_end: 2025-10-17
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
